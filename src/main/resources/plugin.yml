@@ -1,0 +1,4 @@
+name: PearlGapCoolDown
+version: '${version}'
+main: d.e.ben.Ben
+api-version: '1.20'
