@@ -1,4 +1,7 @@
 name: PearlGapCoolDown
 version: '${version}'
-main: d.e.ben.Ben
+main: d.e.cooldownhelper.CooldownHelper
 api-version: '1.20'
+commands:
+  chreload:
+    description: Reloads the plugin
